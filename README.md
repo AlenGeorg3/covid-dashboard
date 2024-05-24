@@ -57,7 +57,6 @@ This project presents a thorough analysis of COVID-19 data using Tableau, offeri
 - **/Data**: Contains the datasets used for analysis.
 - **/Dashboard_Images**: Screenshots of the dashboards for reference.
 - **/Tableau_Workbooks**: Tableau workbook files (.twb) for each dashboard.
-- **/Documentation**: Additional documentation files, including the project report and any supplementary materials.
   
 ### Installation
 To replicate this project locally, you need to install Tableau Desktop and download the datasets from the provided links.
